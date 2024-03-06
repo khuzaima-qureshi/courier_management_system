@@ -81,6 +81,7 @@ Complete Project Report along with synopsis, code and documentation should be pr
 
 
 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/29e99cec-d8c8-47c8-8371-b0031b7751a6)
 
 
 
@@ -102,6 +103,7 @@ SYSTEM
 
 
 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/4fc4b46d-962b-486b-b2ad-de67ab879082)
 
 
 
@@ -120,13 +122,14 @@ USER MANUAL
 Tracking Section:
 Here user can track there parcel shipment status with the given reference code .Which was provided by the agent to the client at the of parcel booking
 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/83cb4823-b324-4db8-aef1-bfc8d3f4e54d)
 
  
 	
 Tracking was shown like this:
  
 
-![logo](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/a31ca697-317f-4266-9553-e46885f2f97f)
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/c94cb149-5302-4b8a-bd71-4cb7836386be)
 
 
 
@@ -139,6 +142,7 @@ Admin Pannel:
 
 
 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/7d89663e-9da7-4225-a972-6a3d5f0d98c5)
 
 
 
@@ -154,12 +158,17 @@ Agent Pannal:
  
 Admin have this main Access in dropdown:
  
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/fcf68da1-4724-43ac-8dfc-3965d4acf495)
 
- 
+ ![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/8393600e-c6f5-4363-a257-d27ced8eeae8)
+
 
 Agent View their profile
- 
+ ![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/f123250a-7984-4937-a9e0-90971c7cc509)
 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/45c50e83-c9a0-4408-97e9-c0dda9a17f44)
+
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/b0aa377e-ceb7-4f3a-9e8a-12aad02c58c4)
 
 
 User Pannal:
@@ -167,7 +176,8 @@ User only track parcel. Image shown in above.
 
 Courier Form
 Here customer booking their courier
- 
+ ![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/cada2352-3bde-4044-8d6c-8269c9187046)
+
 
 
 
@@ -180,9 +190,12 @@ When click on eye detail page view
  
 Here update parcel status
 
- 
+ ![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/c3a39505-0722-45f5-94a3-782e9a5c57cf)
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/01a8f64f-6d70-4e6a-8e7c-407cabcb91b8)
+
 Here we update status.
 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/6c1f3888-db35-41ec-abb5-6ba990298a49)
 
 
 
@@ -191,32 +204,9 @@ Here we update status.
 Report 
  
 Report is fetch accourding to date wise
-
-CODING:
-Index page
- 
- 
+![image](https://github.com/khuzaima-qureshi/courier_management_system/assets/141323710/0211492f-ca82-4e8b-a4ec-a8b41a8a5cdc)
 
 
- 
-
-
-Courier page
- 
-Track Page
- 
-
-
-
-
-
-
-
-Report Page
- 
- 
-Delete page 
- 
 
  
  
